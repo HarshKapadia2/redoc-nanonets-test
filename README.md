@@ -1,3 +1,3 @@
 # NanoNets API Reference
 
-https://nanonets.com/documentation
+NOTE: The up to date API Reference is located at https://github.com/NanoNets/api-docs.
